@@ -1,0 +1,6 @@
+@lab1_pkir_webapi_HostAddress = http://localhost:5032
+
+GET {{lab1_pkir_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
